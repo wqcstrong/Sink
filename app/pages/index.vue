@@ -7,6 +7,6 @@
     <HomeLogos />
     <HomeCta />
     -->
-    <h1>Welcome to come here, there is nothing. Bye<a href="/dashboard">~</a></h1>
+    <h1>Welcome to come here, there is nothing. <a href="/dashboard">Bye~</a></h1>
   </main>
 </template>
